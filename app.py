@@ -47,8 +47,8 @@ if menu == "About Me":
         st.markdown(
             """
             <div style="padding:16px;border-radius:12px;background:#f3e8ff;border:1px solid #d8b4fe;">
-                <h4 style="margin:0 0 6px 0;">🌸 Predict Bunga Iris</h4>
-                <p style="margin:0;font-size:14px;">
+                <h4 style="margin:0 0 6px 0;color:#3b0764;">🌸 Predict Bunga Iris</h4>
+                <p style="margin:0;font-size:14px;color:#3b0764;">
                 Memprediksi spesies bunga Iris (Setosa, Versicolor, Virginica) berdasarkan
                 ukuran sepal dan petal, menggunakan model SVM.
                 </p>
@@ -60,8 +60,8 @@ if menu == "About Me":
         st.markdown(
             """
             <div style="padding:16px;border-radius:12px;background:#ffe4e6;border:1px solid #fda4af;">
-                <h4 style="margin:0 0 6px 0;">❤️ Predict Penyakit Jantung</h4>
-                <p style="margin:0;font-size:14px;">
+                <h4 style="margin:0 0 6px 0;color:#881337;">❤️ Predict Penyakit Jantung</h4>
+                <p style="margin:0;font-size:14px;color:#881337;">
                 Memprediksi risiko penyakit jantung berdasarkan data kondisi pasien,
                 menggunakan model Random Forest.
                 </p>
